@@ -1,6 +1,7 @@
 # Object-Distance-and-Depth-Estimation
 This project is used to process simulated video of urban traffic scene from IPG car maker. (1) Depth estimation which detects and object distance and generates depth map. (2) Object detection algorithm which identifies objects in front of the vehicle. (3) Distance estimation algorithm which predicts object distance from the vehicle.
 
+This project was run and tested in Google Colab.
 
 For the Depth Estimation:
   The model used came from Intel MiDas:
